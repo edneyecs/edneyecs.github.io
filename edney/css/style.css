@@ -10,8 +10,11 @@ html, body {
 body{
     font-family: 'Raleway', sans-serif;
     color: white;
-    background: rgb(54,77,204);
+   /* background: rgb(54,77,204);
     background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(28,44,135,1) 100%);
+    */
+    background: rgb(2,0,36);
+background: linear-gradient(190deg, rgba(2,0,36,1) 0%, rgba(29,98,161,1) 35%, rgba(0,212,255,1) 100%);
 }
 
 .avatar {
